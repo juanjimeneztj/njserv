@@ -57,7 +57,7 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#" target="_blank">
                                 <i class="ni ni-ui-04"></i>
-                                <span class="nav-link-text">Working</span>
+                                <span class="nav-link-text">Working on It</span>
                             </a>
                         </li>
                         <li class="nav-item">
